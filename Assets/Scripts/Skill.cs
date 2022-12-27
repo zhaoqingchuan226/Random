@@ -83,7 +83,7 @@ public class Skill
     public static Skill PoisonalFire = new Skill("毒火", 6, TypeColor.Blue, null, new List<string> { "毒" }, SkillType.Combo);
     public static Skill Fire_Hard_Ash = new Skill("灼烧.灰烬", 4, TypeColor.Blue, null, new List<string> { "灼烧" }, SkillType.Combo);
 
-    public static Skill Defend_Gold = new Skill("金钟罩", 4, TypeColor.Gray, null, new List<string> { "拳" }, SkillType.Combo);
+    public static Skill Defend_Gold = new Skill("金钟罩", 5, TypeColor.Gray, null, new List<string> { "拳" }, SkillType.Combo);
 
 
     public static List<Skill> skills = new List<Skill>{

@@ -105,8 +105,6 @@ public class PlayerData : MonoBehaviour
 
         foreach (var C_Skills in skillList.C_Skills_P_Skill_Dic.Keys)//将玩家的现有技能和所有的技能表进行对照
         {
-
-
             List<Skill> C_Skills1 = new List<Skill>();
             C_Skills1.AddRange(C_Skills);//出招表的拷贝
             List<Skill> skills1 = new List<Skill>();
