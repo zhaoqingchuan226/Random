@@ -152,7 +152,7 @@ Material:
     m_Colors:
     - _BASE_COLOR: {r: 0.42117792, g: 0.76777256, b: 0.16324711, a: 1}
     - _BaseColor: {r: 0.42214933, g: 0.7830189, b: 0, a: 1}
-    - _Color: {r: 0.42214927, g: 0.7830188, b: 0, a: 1}
+    - _Color: {r: 0.42214933, g: 0.7830189, b: 0, a: 1}
     - _EMISSION_COLOR: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _REFLECTIONS_COLOR: {r: 1, g: 1, b: 1, a: 1}
